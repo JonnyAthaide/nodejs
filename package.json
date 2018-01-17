@@ -1,0 +1,26 @@
+{
+  "name": "node-son",
+  "version": "1.0.0",
+  "description": "school of net",
+  "main": "app.js",
+  "dependencies": {
+    "npm": "^5.6.0",
+    "websocket": "^1.0.25"
+  },
+  "devDependencies": {
+    "hello_nichojo": "^0.1.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "school",
+    "of",
+    "net",
+    "init",
+    "node.js",
+    "nodejs"
+  ],
+  "author": "Jon",
+  "license": "ISC"
+}
